@@ -4,3 +4,6 @@
 [submodule "weather-api"]
 	path = weather-api
 	url = https://github.com/simiyub/weather-api.git
+[submodule "weather/weather-api"]
+	path = weather/weather-api
+	url = https://github.com/simiyub/weather-api.git
